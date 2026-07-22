@@ -68,9 +68,15 @@ contact: 'team@carpentries.org' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
+- 01-physical-networking.md
+- 02-ip-networking.md
+- 03-routing-and-dhcp.md
+- 04-wifi.md
+- 05-file-transfer.md
+- 06-filesystems.md
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
 instructors: 
