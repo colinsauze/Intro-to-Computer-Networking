@@ -27,28 +27,30 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::: spoiler
+## Hardware Setup
 
-### Windows
+### Computers
 
-Use PuTTY
+Each learner should have a computer they can configure the network on. Model B Raspberry Pi's are a likely choice as they have an ethernet port and (since the model 3) WiFi on board.
 
-::::::::::::::::::::::::
+#### Screens and Keyboards
 
-:::::::::::::::: spoiler
+Out of the box the computers won't have any network access, so connecting to them with laptops is difficult. Each will need a screen and keyboard.
 
-### MacOS
+#### Network cables
 
-Use Terminal.app
+Each computer will need one network cable.
 
-::::::::::::::::::::::::
+#### Switches
 
+Ideally each pair should have a small swith to connect their computers together. They could also connect directly using an ethernet cable. 
 
-:::::::::::::::: spoiler
+### Network
 
-### Linux
+The instructors will need to provide infrastructure for a wider network. This includes:
 
-Use Terminal
+* Network switch with enough connections to connect all the learner computers (or downstream switches).
+* Router computer/Pi, connected to both the room network and to the internet. Provides a DHCP server.
+* WiFi access point, ideally connected to the Router computer and internet too.
 
-::::::::::::::::::::::::
 
