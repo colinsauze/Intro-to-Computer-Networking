@@ -11,10 +11,11 @@ title: Learners Personas
 * No practical networking experience
 * Wants to run some specialist software on the HPC which has a client and server part
 
-## Digital humanities HPC user
+## Data Scientists or Digital humanities HPC user
 * Doesn't understand local vs remote machine.
 * Doesn't have a mental image of the 'anatomy of an HPC'.
 * Has little awareness of filessystems - where is my data?
+* Data scientists need to access/move large amounts of data. Often have maths, stats or business backgrounds.
 
 ## Lab equipment users
 * Has a background in another scientific discipline
