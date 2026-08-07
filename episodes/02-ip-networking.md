@@ -14,6 +14,8 @@ title: "IP Networking"
 
 ## IP addresses
 
+network manager or manual configuration? or both?
+
 ### Address classes
 
 #### Netmasks and CIDR
