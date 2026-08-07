@@ -19,6 +19,7 @@ exercises: 30 # exercise time in minutes
 
 # File Transfer
 
+## rsync 
 ## cp vs SCP
 
 ## bandwidth
