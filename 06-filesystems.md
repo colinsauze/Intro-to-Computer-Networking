@@ -31,3 +31,4 @@ diagram here!
 ## exercise - create/export and mount an NFS filesystem between the pairs (this might need extra packages installed)
 
 
+## callout on windows drive letters
